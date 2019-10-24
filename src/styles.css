@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+/*
+*  MAT-TYPOGRAPHY CLASSES
+*
+.mat-display-4	Large, one-off header, usually at the top of the page (e.g. a hero header).
+.mat-display-3	Large, one-off header, usually at the top of the page (e.g. a hero header).
+.mat-display-2	Large, one-off header, usually at the top of the page (e.g. a hero header).
+.mat-display-1	Large, one-off header, usually at the top of the page (e.g. a hero header).
+.mat-h1, .mat-headline	Section heading corresponding to the <h1> tag.
+.mat-h2, .mat-title	Section heading corresponding to the <h2> tag.
+.mat-h3, .mat-subheading-2	Section heading corresponding to the <h3> tag.
+.mat-h4, .mat-subheading-1	Section heading corresponding to the <h4> tag.
+.mat-body, .mat-body-1	Base body text.
+.mat-body-strong, .mat-body-2	Bolder body text.
+.mat-small, .mat-caption	Smaller body and hint text.
+*
+*/
+
+body {
+    max-width: 64vw;
+    margin: auto;
+    background: white;
+    padding: 10px;
+    font-family: Roboto;
+}
