@@ -19,6 +19,16 @@
 *
 */
 
+@font-face {
+    font-family: "NeoSans";
+    src: url("/assets/font/neosans/c74edeaf658e851e2c71f78b2a28d352.eot");
+    src: url("/assets/font/neosans/c74edeaf658e851e2c71f78b2a28d352.eot?#iefix") format("embedded-opentype"),
+    url("/assets/font/neosans/c74edeaf658e851e2c71f78b2a28d352.woff2") format("woff2"),
+    url("/assets/font/neosans/c74edeaf658e851e2c71f78b2a28d352.woff") format("woff"),
+    url("/assets/font/neosans/c74edeaf658e851e2c71f78b2a28d352.ttf") format("truetype"),
+    url("/assets/font/neosans/c74edeaf658e851e2c71f78b2a28d352.svg#NeoSans") format("svg");
+}
+
 body {
     max-width: 64vw;
     margin: auto;
