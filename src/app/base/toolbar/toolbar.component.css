@@ -1,0 +1,11 @@
+.logo {
+    max-height: 2vw;
+}
+
+mat-icon {
+    height: 20px;
+}
+
+.wrapper {
+    margin-top: 24px;
+}

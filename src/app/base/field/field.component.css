@@ -1,0 +1,14 @@
+.wrapper {
+    margin-top: 20%;
+    margin-left: 4%;
+    max-width: 50%;
+}
+
+.cash-value {
+    font-size: 4vw;
+    font-family: NeoSans;
+    text-align: center;
+    color: #2c2e2f;
+    line-height: 100%;
+    font-size: 2.5rem;
+}
